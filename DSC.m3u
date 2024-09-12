@@ -28,9 +28,8 @@ http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
 https://storage2.fastupload.io/3899a927e8c30ca3/InShot_20240912_122540040.mp4?download_token=c1116538d0b2b5825a09e39344926ba1a5ab9ea772ecf96f3d78c6ea852ae120
 
 
-#EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",HHHJ DSC
-
-
+#EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",R-TV DSC
+https://ipcloud.live/rtvhd/live/index.m3u8
 
 
 
