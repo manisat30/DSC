@@ -3,43 +3,56 @@
 https://drive.usercontent.google.com/download?id=1Y-L-SU1EJkX6_osLpjrQyph0ieVs5p4c&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",CH-1 DSC
-http://ptu.ridsys.in/riptv/live/stream66/index.m3u8
+http://103.98.62.134:8080/gtv/gtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DIGITAL-SERVICE-CENTER" tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WX2LRGV9ezMaKJS9pZNlUrC26jSyWbmA&export=download",DIGITAL DSC
 https://drive.usercontent.google.com/download?id=1Y-L-SU1EJkX6_osLpjrQyph0ieVs5p4c&export=download&authuser=0
 
 
 #EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",CH-2 DSC
-http://ptu.ridsys.in/riptv/live/stream1/index.m3u8
+http://pcvtv.sscloud7.com:1935/live/livepcv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DIGITAL-SERVICE-CENTER" tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WX2LRGV9ezMaKJS9pZNlUrC26jSyWbmA&export=download",DIGITAL DSC
 https://drive.usercontent.google.com/download?id=1Y-L-SU1EJkX6_osLpjrQyph0ieVs5p4c&export=download&authuser=0
 
 
 #EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",CH-3 DSC
-https://ipcloud.live/onetv/onemovies/index.m3u8
+https://stream.sscloud7.in/live/vishiltv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DIGITAL-SERVICE-CENTER" tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WX2LRGV9ezMaKJS9pZNlUrC26jSyWbmA&export=download",DIGITAL DSC
 https://drive.usercontent.google.com/download?id=1Y-L-SU1EJkX6_osLpjrQyph0ieVs5p4c&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",CH-4 DSC
-http://ipcloud.live:8080/sachintv/aadviktv/index.m3u8
+http://server.sscloud7.in/aasaitv/aasaitv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DIGITAL-SERVICE-CENTER" tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WX2LRGV9ezMaKJS9pZNlUrC26jSyWbmA&export=download",DIGITAL DSC
-https://storage3.fastupload.io/448bf928f75f020d/InShot_20240912_144744717.mp4?download_token=5b8cf225d80a8baba4b2cb8b69f6d0d1b78c75a0abb8623b3ded0b7ddaf56dec
+https://drive.usercontent.google.com/download?id=1Y-L-SU1EJkX6_osLpjrQyph0ieVs5p4c&export=download&authuser=0
 
 #EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",CH-5 DSC
-https://ipcloud.live/leotv/leotvhd/index.m3u8
+https://server.sscloud7.in/mayuritvtvl/mayuritvtvl/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DIGITAL-SERVICE-CENTER" tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WX2LRGV9ezMaKJS9pZNlUrC26jSyWbmA&export=download",DIGITAL DSC
-https://storage2.fastupload.io/3899a927e8c30ca3/InShot_20240912_122540040.mp4?download_token=c1116538d0b2b5825a09e39344926ba1a5ab9ea772ecf96f3d78c6ea852ae120
+https://drive.usercontent.google.com/download?id=1Y-L-SU1EJkX6_osLpjrQyph0ieVs5p4c&export=download&authuser=0
 
 
 #EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",CH-6 R-TV DSC
-https://ipcloud.live/rtvhd/live/index.m3u8
+http://brightmeltech.in/rajatv/rajatv.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DIGITAL-SERVICE-CENTER" tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WX2LRGV9ezMaKJS9pZNlUrC26jSyWbmA&export=download",DIGITAL DSC
+https://drive.usercontent.google.com/download?id=1Y-L-SU1EJkX6_osLpjrQyph0ieVs5p4c&export=download&authuser=0
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 end
 
 
 
