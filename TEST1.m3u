@@ -1,0 +1,59 @@
+#EXTM3U 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=849d6b062b645abea937ec7f2b6b1686:1f65503420b88d11a16d4a4eacd95f0f
+849d6b062b645abea937ec7f2b6b1686:1f65503420b88d11a16d4a4eacd95f0f
+#EXTINF:-1 tvg-id="496" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Entertainment", #1 Star Vijay
+https://jstv.8088yyy.workers.dev/?id=368|Referer=https://m3u.8088y.site/
+
+
+#EXTINF:-1 tvg-id="608" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Entertainment", Zee Tamil HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5.8088yyy.workers.dev/?c=0-9-zeetamil|Referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-id="608" tvg-logo="https://tatalogo.pages.dev/608.png" group-title="Entertainment", Zee Tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5.8088yyy.workers.dev/?c=0-9-9z5383487|Referer=https://m3u.8088y.site/
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94d31d976768554b892f7037db09e0c9:08c5154b6cdcb6e0fc99d9d4e6298cb3
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/2.11.6
+#EXTINF:-1 tvg-id="674" tvg-chno="6" tvg-logo="https://tatalogo.pages.dev/674.png" group-title="Entertainment", Colors Tamil HD
+https://jstv.8088yyy.workers.dev/?id=429|Referer=https://m3u.8088y.site/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+#EXTINF:-1 tvg-id="200" tvg-chno="7"tvg-logo="https://tatalogo.pages.dev/200.png" group-title="Entertainment", Kalaignar TV 
+https://jstv.8088yyy.workers.dev/?id=1209|Referer=https://m3u.8088y.site/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16a7f966a8695a58ab1a5311c3f98545:0e67031411209bb0688a8808cf8232f9
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+#EXTINF:-1 tvg-id="708" tvg-chno="8" tvg-logo="https://tatalogo.pages.dev/708.png" group-title="Entertainment", Jaya TV HD
+https://jstv.8088yyy.workers.dev/?id=419|Referer=https://m3u.8088y.site/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b214e599f3f5fb3abd92164fa152caf:ec6050021a558cd31511717e1c0912e6
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/2.11.6
+#EXTINF:-1 tvg-id="439" tvg-chno="12" tvg-logo="https://tatalogo.pages.dev/439.png" group-title="Entertainment", Raj TV
+https://jstv.8088yyy.workers.dev/?id=707|Referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-id="847" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/04/20240408_122523124639342017653359.png"  group-title="Entertainment", MK TV
+https://m3u.8088y.site/Play.php?id=847|User-Agent=8088y&Referer=https://m3u.8088y.site/
+
+#EXTINF:-1  tvg-id="1647" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/05/20240521_1223086548629137627592678.png"  group-title="Entertainment", MK Six
+https://m3u.8088y.site/Play.php?id=1647|User-Agent=8088y&Referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-id="1518" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0159072608720790962587693.png" group-title="Entertainment", Moon TV
+https://m3u.8088y.site/Play.php?id=1518|User-Agent=8088y&Referer=https://m3u.8088y.site/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f12c21409935b97b9bdaeeaf6ab7822:d8e90e3241b0a9fabf4ac2234305a53c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+#EXTINF:-1 tvg-name="824" group-title="Entertainment" tvg-logo="https://i.ibb.co/Xt40dT5/Puthuyugam.png", Puthu Yugam
+https://jstv.8088yyy.workers.dev/?id=824|Referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-name="Vikatan" tvg-logo="https://i.ibb.co/F0HvxrQ/vikatan.png" group-title="Entertainment", Vikatan TV
+https://m3u.8088y.site/Play.php?id=1234|User-Agent=8088y&Referer=https://m3u.8088y.site/
